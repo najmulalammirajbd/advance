@@ -16,3 +16,4 @@ console.log(fun);
 
 let ages = [2,5,7];
 console.log(ages[11]);
+
